@@ -6,4 +6,4 @@ Jingya: Finish question 4 with the help from Jiachen and Shih-Hung for data proc
 
 Jiachen: Finish question 5 and 6, also help with question 4
 
-Noor:
+Noor: Collborate with Jiachen and finish question 5
